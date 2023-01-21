@@ -1,6 +1,6 @@
  ## Github Resources:
 
-This repository holds how-to resources for updating a gtihub site
+This repository holds how-to resources for updating a Gtihub site and setting up Git
 
 - [Formatting & editing](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
