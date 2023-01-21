@@ -1,6 +1,6 @@
  ## Github Resources:
 
-This repository holds how-to resources for updating a Gtihub site and setting up Git
+This repository holds how-to resources for creating & updating a Gtihub site and setting up & using Git
 
 - [Workflow](https://docs.github.com/en)
 
