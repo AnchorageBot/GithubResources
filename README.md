@@ -2,6 +2,8 @@
 
 This repository holds how-to resources for updating a Gtihub site and setting up Git
 
+- [Workflow](https://docs.github.com/en)
+
 - [Hello World Exercise](https://docs.github.com/en/get-started/quickstart/hello-world)
 
   - [Formatting & editing](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
@@ -10,6 +12,4 @@ This repository holds how-to resources for updating a Gtihub site and setting up
 
   - [Commit Statuses](https://docs.github.com/en/rest/commits/statuses?apiVersion=2022-11-28)
   
-  - [Workflow](https://docs.github.com/en)
-
 - [Setup Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
