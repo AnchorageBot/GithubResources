@@ -13,3 +13,9 @@ This repository holds how-to resources for creating & updating a Gtihub site and
   - [Commit Statuses](https://docs.github.com/en/rest/commits/statuses?apiVersion=2022-11-28)
   
 - [Setup Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
+
+- - - -
+
+* [HTML Character Reference Names/Standard Entities](https://html.spec.whatwg.org/multipage/named-characters.html#named-character-references)
+  
+* [Markdown Guide](https://www.markdownguide.org/)
